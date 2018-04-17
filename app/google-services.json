@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "65857970656",
+    "firebase_url": "https://rapiasitencias.firebaseio.com",
+    "project_id": "rapiasitencias",
+    "storage_bucket": "rapiasitencias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65857970656:android:4d8d26efcf7bbb04",
+        "android_client_info": {
+          "package_name": "com.example.soporte.rapiasistencias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65857970656-c1tn582ff05218hl0hnggcojj08c29ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soporte.rapiasistencias",
+            "certificate_hash": "d281b1ee72fdd44b4fb08f84d86c949df6355db6"
+          }
+        },
+        {
+          "client_id": "65857970656-ujj4oj376k3aqsp8eip0fkvrm5ivgn2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soporte.rapiasistencias",
+            "certificate_hash": "4cc76668474e020a0bae9aca66868c355531a954"
+          }
+        },
+        {
+          "client_id": "65857970656-ngrgl5rhaucc2lkq2k7atecqv7g5to8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOBSToICYhj0bDPB66iTSBAGgUSF9mcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65857970656-ngrgl5rhaucc2lkq2k7atecqv7g5to8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
